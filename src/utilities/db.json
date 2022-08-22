@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "The Witcher 3: Wild Hunt",
+      "description": "As war rages on throughout the Northern Realms, you take on the greatest contract of your life — tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.",
+      "releaseDate": "18 May 2015",
+      "imageURL": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg?t=1621939214",
+      "developer": "CD PROJEKT RED",
+      "price": 29.99
+    },
+    {
+      "title": "Dota 2",
+      "description": "Dota 2 is a 2013 multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character known as a \"hero\" that all have unique abilities and differing styles of play. During a match players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's \"Ancient\", a large structure located within their base.",
+      "releaseDate": "2022-09-04",
+      "imageURL": "https://avatars.mds.yandex.net/i?id=1850024db4b44c6501fe95f868080d5e-5501896-images-thumbs&n=13&exp=1",
+      "developer": "IceCub",
+      "price": 1000,
+      "id": 4
+    },
+    {
+      "title": "Asphalt 9",
+      "description": "The primary use (70%) of asphalt is in road construction,[4] where it is used as the glue or binder mixed with aggregate particles to create asphalt concrete. Its other main uses are for bituminous waterproofing products, including production of roofing felt and for sealing flat roofs.[5]",
+      "releaseDate": "2022-08-26",
+      "imageURL": "https://avatars.mds.yandex.net/i?id=8ca53ea290eb4dc2236481e99f6d2706-5234681-images-thumbs&n=13&exp=1",
+      "developer": "British asphalt industry",
+      "price": 800,
+      "id": 5
+    },
+    {
+      "title": "Call of Duty",
+      "description": "Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space. The games were first developed by Infinity Ward, then also by Treyarch and Sledgehammer Games. Several spin-off and handheld games were made by other developers. The most recent title, Call of Duty: Vanguard, was released on November 5, 2021. The next title, Call of Duty: Modern Warfare II, will be released on October 28, 2022.",
+      "releaseDate": "2022-08-01",
+      "imageURL": "https://avatars.mds.yandex.net/i?id=bb7fde4c52cc32b55cab99bad105d3cf-5483446-images-thumbs&n=13&exp=1",
+      "developer": "Activision",
+      "price": 544,
+      "id": 6
+    }
+  ]
+}
